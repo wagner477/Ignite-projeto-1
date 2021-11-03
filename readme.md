@@ -4,8 +4,8 @@
 
 <ul>
   Requisitos
-  <li>[] Deve ser possível criar umma conta</li>
-  <li>[] Deve ser possível buscar o extrato bancário do cliente</li>
+  <li>[ ] Deve ser possível criar umma conta</li>
+  <li>[ ] Deve ser possível buscar o extrato bancário do cliente</li>
   <li>[] Deve ser possível realizar um depósito</li>
   <li>[] Deve ser possível realizar um saque</li>
   <li>[] Deve ser possível buscar o extrato bancário do cliente por data</li>
