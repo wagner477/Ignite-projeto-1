@@ -21,4 +21,8 @@
   <li>[ ] Não deve ser possível fazer saque em uma conta não existente</li>
   <li>[ ] Não deve ser possível excluir uma conta não existente</li>
   <li>[ ] Não deve ser possível fazer saque quando o saldo for insuficiente</li>
+<<<<<<< HEAD
 </ul>
+=======
+</ul>
+>>>>>>> e8bb0de36572397d537a1a313b2ad3767e050503
