@@ -8,9 +8,9 @@
   <li>[x] Deve ser possível buscar o extrato bancário do cliente</li>
   <li>[x] Deve ser possível realizar um depósito</li>
   <li>[x] Deve ser possível realizar um saque</li>
-  <li>[ ] Deve ser possível buscar o extrato bancário do cliente por data</li>
-  <li>[ ] Deve ser possível atualizar dados da conta do cliente</li>
-  <li>[ ] Deve ser possível obter dados da conta do cliente</li>
+  <li>[x] Deve ser possível buscar o extrato bancário do cliente por data</li>
+  <li>[x] Deve ser possível atualizar dados da conta do cliente</li>
+  <li>[x] Deve ser possível obter dados da conta do cliente</li>
   <li>[ ] Deve ser possível deletar uma contaRegras de negócio</li>
 </ul>
 
